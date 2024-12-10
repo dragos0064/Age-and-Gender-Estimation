@@ -5,6 +5,7 @@ The Gender and Age Classification project uses deep learning with OpenCV's DNN m
 
 ---
 
+
 ✨ **Features**  
 - **Real-Time Predictions**  
   - Detects gender (Male/Female) and age range (e.g., 25-32) in real-time.  
